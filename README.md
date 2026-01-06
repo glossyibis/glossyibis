@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python from Think Python [Book]**.
 - 💬 Ask me about **my Computer Science journey**.
 - 📫 How to reach me: ~email~
-- ⚡ Fun fact: **Hummingbirds are the only birds that can fly backward and have the highest metabolism**.
+- ⚡ Fun fact: **Hummingbirds are the only birds that can fly backward**.
 
 # more
 
