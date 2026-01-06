@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About me
+
+- 🔭 I’m currently working on **getting familiar with GitHub**.
+- 🌱 I’m currently learning **Python from Think Python [Book]**.
+- 💬 Ask me about **my Computer Science journey**.
+- 📫 How to reach me: ~email~
+- ⚡ Fun fact: **Hummingbirds are the only birds that can fly backward and have the highest metabolism**.
+
+# more
+
+**GitHub Skills**  
+Learn how to use GitHub with interactive courses designed for beginners and experts.  
+[Click here](https://skills.github.com)
